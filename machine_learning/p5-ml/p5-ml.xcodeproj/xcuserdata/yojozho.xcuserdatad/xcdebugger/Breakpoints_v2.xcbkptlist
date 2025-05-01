@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "068E58D6-9E74-4B43-869A-9A64F3337EFC"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3413AA7A-9F9C-4394-AA73-0B96905512B4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../BinarySearchTree.h"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "546"
+            endingLineNumber = "546"
+            landmarkName = "min_greater_than_impl(node, val, less)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3413AA7A-9F9C-4394-AA73-0B96905512B4 - 627d53a46ccad973"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BinarySearchTree&lt;int, std::__1::less&lt;int&gt; &gt;::min_greater_than_impl(BinarySearchTree&lt;int, std::__1::less&lt;int&gt; &gt;::Node*, int const&amp;, std::__1::less&lt;int&gt;)"
+                  moduleName = "p5-ml"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yojozho/Desktop/eecs280/p5-ml/BinarySearchTree.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "536"
+                  endingLineNumber = "536"
+                  offsetFromSymbolStart = "21">
+               </Location>
+               <Location
+                  uuid = "3413AA7A-9F9C-4394-AA73-0B96905512B4 - ac20ff5e4bfbba90"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BinarySearchTree&lt;Duck, DuckWealthLess&gt;::min_greater_than_impl(BinarySearchTree&lt;Duck, DuckWealthLess&gt;::Node*, Duck const&amp;, DuckWealthLess)"
+                  moduleName = "p5-ml"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yojozho/Desktop/eecs280/p5-ml/BinarySearchTree.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "536"
+                  endingLineNumber = "536"
+                  offsetFromSymbolStart = "21">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3F18507A-7522-4D6B-884B-5E7E2DA88103"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../BinarySearchTree.h"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "455"
+            endingLineNumber = "455"
+            landmarkName = "min_element_impl(node)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "707B98C6-7312-4404-AEAB-E9E8243F9258"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../Map.h"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "108"
+            endingLineNumber = "108"
+            landmarkName = "Map"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7E012E27-E2BD-405F-9B9D-714D84F74EF6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../BinarySearchTree_tests.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "94"
+            endingLineNumber = "94"
+            landmarkName = "TEST()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

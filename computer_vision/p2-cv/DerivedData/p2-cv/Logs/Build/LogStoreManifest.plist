@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>03970D35-21AD-4728-A1BE-97E798D9AFE3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>03970D35-21AD-4728-A1BE-97E798D9AFE3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-cv project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-cv</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build p2-cv</string>
+			<key>timeStartedRecording</key>
+			<real>665715463.28100896</real>
+			<key>timeStoppedRecording</key>
+			<real>665715464.58662903</real>
+			<key>title</key>
+			<string>Build p2-cv</string>
+			<key>uniqueIdentifier</key>
+			<string>03970D35-21AD-4728-A1BE-97E798D9AFE3</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
